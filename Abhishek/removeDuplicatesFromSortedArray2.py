@@ -1,8 +1,4 @@
-"""
-@Abhishek 
-Day 22 : Bithday Problem 
-Topic : Arrays 
-"""
+
 
 
 class Solution:
